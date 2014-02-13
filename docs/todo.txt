@@ -1,0 +1,9 @@
+1. Change the name of package. Remove ankit from there.
+2. Remove ankit package name from POM.xml as well.
+3. Need to write content for Community pages and wiki.
+4. Find image for Community Icon.
+5. Add Bugs, issues, enhancements to Github.
+6. Create a cloud for jenkins and integration build.
+7. Create a POC for Google Data Service.
+8. Create Google Group for email communication or see other alternatives.
+

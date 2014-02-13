@@ -1,2 +1,3 @@
 # Module collaboration
 # RPC service class, partial path of RPC policy file
+com.ankit.collaboration.client.GreetingService, C493DF28A710D7018AE860608B2FA0A9.gwt.rpc
