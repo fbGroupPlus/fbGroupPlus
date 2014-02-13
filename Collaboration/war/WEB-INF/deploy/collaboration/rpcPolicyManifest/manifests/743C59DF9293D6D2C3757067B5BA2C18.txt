@@ -1,0 +1,2 @@
+serviceClass: com.ankit.collaboration.client.GreetingService
+path: C493DF28A710D7018AE860608B2FA0A9.gwt.rpc
